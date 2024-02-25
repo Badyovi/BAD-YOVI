@@ -3,7 +3,7 @@
 </p> 
  
 <p align="center"> 
-<u> 💖 PRINE-AVI-MD💖</u>
+<u> 💖BAD_YOVI/💖</u>
 </p>
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/134716496?v=4.jpg" width="300" height="300"/>
@@ -32,7 +32,7 @@
 # 
 
 
-  💖Prince avi md 💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+  💖BAD_YOVI/💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -127,7 +127,7 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING 💖Prince avi md 💖
+THANAKS FOR USNING 💖BAD_YOVI/💖
 
 * [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
 
@@ -143,4 +143,4 @@ THANAKS FOR USNING 💖Prince avi md 💖
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- 💖AVISHKA SHAVINDA 💖
+ 💖YEHAN YOVINDU💖
