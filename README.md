@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVISHKA+SHAVINDA" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BAD+YOVI" alt="">
 </p> 
  
 <p align="center"> 
@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Badyovi/BAD-YOVI/main/20240222_023515.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVI+NET+HUNTER" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BAD+YOVI" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AVI-red.svg?style=for-the-badge&logo=github"></a>
@@ -32,7 +32,7 @@
 # 
 
 
-  💖BAD_YOVI/💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+  💖BAD_YOVI/💖 whatsapp bot is an easy to use whatsapp robot.   | YOVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -100,7 +100,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone 
-cd -PRINCE-AVI-MD-
+cd BAD_YOVI/
 npm install
 npm start
 ```
@@ -142,5 +142,5 @@ THANAKS FOR USNING 💖BAD_YOVI/💖
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
-
+ 💖AVISHKA SHAVINDA💖
  💖YEHAN YOVINDU💖
