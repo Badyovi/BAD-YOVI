@@ -48,7 +48,7 @@ let str = `
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${botname}
 ┆♠︎ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${author}
-┆♠︎ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗡𝗮𝗺𝗲 :AVISHKA SHAVINDA
+┆♠︎ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗡𝗮𝗺𝗲 :BAD_YOVI/
 ┆♠︎ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 :linux 
 ┆♠︎ *Uptime* : ${uptime}
 ┆♠︎ *Experience:* ${exp}
@@ -277,7 +277,7 @@ let str = `
 ┌─⊷ *ADVANCED*
 ▢ ai
 ▢ chatgpt
-▢ AVI AI
+▢ YOVI AI
 └───────────  
 `
     conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, false, { mentions: [who] })
